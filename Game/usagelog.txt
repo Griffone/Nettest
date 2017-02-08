@@ -1,0 +1,7 @@
+help 0
+? 0
+open 1
+send 1
+test 0
+quit 0
+q 1
